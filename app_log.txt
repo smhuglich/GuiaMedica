@@ -1,0 +1,219 @@
+2026-03-11 17:39:50,139 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 17:39:50,155 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 17:39:50,442 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 17:39:50,443 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 17:39:50,443 - kivy - INFO - Base: Start application main loop
+2026-03-11 17:39:50,477 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x76dc0bd85d20>" has been set, it will be removed in a future version
+2026-03-11 17:39:50,515 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 17:39:53,449 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 17:39:57,422 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 17:56:39,866 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 17:56:39,901 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 17:56:40,166 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 17:56:40,167 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 17:56:40,168 - kivy - INFO - Base: Start application main loop
+2026-03-11 17:56:40,205 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x786115e7dd20>" has been set, it will be removed in a future version
+2026-03-11 17:56:40,246 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 17:56:43,171 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 17:56:51,611 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 19:19:50,447 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 19:19:50,461 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 19:19:50,604 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 19:19:50,604 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 19:19:50,604 - kivy - INFO - Base: Start application main loop
+2026-03-11 19:19:50,616 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7c01f2a65f50>" has been set, it will be removed in a future version
+2026-03-11 19:19:50,643 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 19:19:53,606 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 19:20:01,225 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 19:30:05,554 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 19:30:05,563 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 19:30:05,689 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 19:30:05,690 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 19:30:05,690 - kivy - INFO - Base: Start application main loop
+2026-03-11 19:30:05,892 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x71a1931f8a50>" has been set, it will be removed in a future version
+2026-03-11 19:30:05,913 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 19:30:08,691 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 19:30:14,307 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 19:38:01,102 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 19:38:01,105 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 19:38:01,112 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 19:38:01,237 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 19:38:01,238 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 19:38:01,238 - kivy - INFO - Base: Start application main loop
+2026-03-11 19:38:01,258 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7b512c4b37d0>" has been set, it will be removed in a future version
+2026-03-11 19:38:01,278 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 19:38:04,238 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 19:38:23,283 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 19:39:38,350 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 19:39:38,353 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 19:39:38,357 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 19:39:38,455 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 19:39:38,455 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 19:39:38,456 - kivy - INFO - Base: Start application main loop
+2026-03-11 19:39:38,471 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x76f70b68b7d0>" has been set, it will be removed in a future version
+2026-03-11 19:39:38,491 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 19:39:41,458 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 19:39:45,933 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 19:49:11,867 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 19:49:11,872 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 19:49:11,879 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 19:49:12,048 - kivy - INFO - ProbeSysfs: device match: /dev/input/event6
+2026-03-11 19:49:12,048 - kivy - INFO - MTD: Read event from </dev/input/event6>
+2026-03-11 19:49:12,049 - kivy - INFO - Base: Start application main loop
+2026-03-11 19:49:12,094 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x78d230f937d0>" has been set, it will be removed in a future version
+2026-03-11 19:49:12,123 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 19:49:15,049 - kivy - WARNING - MTD: Unable to open device "/dev/input/event6". Please ensure you have the appropriate permissions.
+2026-03-11 19:49:18,261 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 20:07:11,636 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 20:07:11,637 - kivy - ERROR - FATAL ERROR: name 'asyncio' is not defined
+2026-03-11 20:07:11,637 - kivy - WARNING - stderr: Traceback (most recent call last):
+2026-03-11 20:07:11,637 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/main.py", line 320, in <module>
+2026-03-11 20:07:11,638 - kivy - WARNING - stderr:     raise e
+2026-03-11 20:07:11,638 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/main.py", line 317, in <module>
+2026-03-11 20:07:11,639 - kivy - WARNING - stderr:     asyncio.run(app.async_run(async_lib="asyncio"))
+2026-03-11 20:07:11,639 - kivy - WARNING - stderr: NameError: name 'asyncio' is not defined
+2026-03-11 20:08:33,545 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 20:08:33,546 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 20:08:33,559 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 20:08:33,722 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 20:08:33,723 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 20:08:33,723 - kivy - INFO - Base: Start application main loop
+2026-03-11 20:08:33,752 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7868219b5230>" has been set, it will be removed in a future version
+2026-03-11 20:08:33,780 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 20:08:36,724 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 20:08:40,039 - kivy - INFO - Base: Leaving application in progress...
+2026-03-11 20:08:40,042 - kivy - WARNING - stderr: Traceback (most recent call last):
+2026-03-11 20:08:40,042 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/main.py", line 318, in <module>
+2026-03-11 20:08:40,043 - kivy - WARNING - stderr:     asyncio.run(app.async_run(async_lib="asyncio"))
+2026-03-11 20:08:40,043 - kivy - WARNING - stderr:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2026-03-11 20:08:40,048 - kivy - WARNING - stderr:     return loop.run_until_complete(main)
+2026-03-11 20:08:40,049 - kivy - WARNING - stderr:   File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+2026-03-11 20:08:40,050 - kivy - WARNING - stderr:     self.run_forever()
+2026-03-11 20:08:40,050 - kivy - WARNING - stderr:   File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+2026-03-11 20:08:40,051 - kivy - WARNING - stderr:     self._run_once()
+2026-03-11 20:08:40,051 - kivy - WARNING - stderr:   File "/usr/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+2026-03-11 20:08:40,052 - kivy - WARNING - stderr:     handle._run()
+2026-03-11 20:08:40,053 - kivy - WARNING - stderr:   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2026-03-11 20:08:40,053 - kivy - WARNING - stderr:     self._context.run(self._callback, *self._args)
+2026-03-11 20:08:40,054 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/venv/lib/python3.10/site-packages/kivy/app.py", line 968, in async_run
+2026-03-11 20:08:40,056 - kivy - WARNING - stderr:     await async_runTouchApp(async_lib=async_lib)
+2026-03-11 20:08:40,056 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/venv/lib/python3.10/site-packages/kivy/base.py", line 597, in async_runTouchApp
+2026-03-11 20:08:40,058 - kivy - WARNING - stderr:     await EventLoop.async_mainloop()
+2026-03-11 20:08:40,058 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/venv/lib/python3.10/site-packages/kivy/base.py", line 354, in async_mainloop
+2026-03-11 20:08:40,059 - kivy - WARNING - stderr:     await self.async_idle()
+2026-03-11 20:08:40,059 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/venv/lib/python3.10/site-packages/kivy/base.py", line 439, in async_idle
+2026-03-11 20:08:40,059 - kivy - WARNING - stderr:     window.dispatch('on_draw')
+2026-03-11 20:08:40,059 - kivy - WARNING - stderr:   File "kivy/_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2026-03-11 20:08:40,059 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/venv/lib/python3.10/site-packages/kivy/core/window/__init__.py", line 1675, in on_draw
+2026-03-11 20:08:40,060 - kivy - WARNING - stderr:     self.clear()
+2026-03-11 20:08:40,060 - kivy - WARNING - stderr:   File "/home/smhuglich/compilar/venv/lib/python3.10/site-packages/kivy/core/window/__init__.py", line 1581, in clear
+2026-03-11 20:08:40,060 - kivy - WARNING - stderr:     gl.glClear(
+2026-03-11 20:08:40,060 - kivy - WARNING - stderr: KeyboardInterrupt
+2026-03-11 20:08:53,373 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 20:08:53,375 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 20:08:53,379 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 20:08:53,459 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 20:08:53,460 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 20:08:53,460 - kivy - INFO - Base: Start application main loop
+2026-03-11 20:08:53,471 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7e52adbc1230>" has been set, it will be removed in a future version
+2026-03-11 20:08:53,495 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 20:08:56,472 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 20:09:01,547 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 20:24:45,793 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 20:24:45,795 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 20:24:45,796 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 20:24:45,796 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 20:24:45,808 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 20:24:45,943 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 20:24:45,943 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 20:24:45,944 - kivy - INFO - Base: Start application main loop
+2026-03-11 20:24:45,969 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7efeb8cc1230>" has been set, it will be removed in a future version
+2026-03-11 20:24:45,994 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 20:24:48,944 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 20:24:55,367 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 20:26:28,176 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 20:26:28,178 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 20:26:28,179 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 20:26:28,179 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 20:26:28,184 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 20:26:28,349 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 20:26:28,350 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 20:26:28,350 - kivy - INFO - Base: Start application main loop
+2026-03-11 20:26:28,366 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x783ef06bd230>" has been set, it will be removed in a future version
+2026-03-11 20:26:28,407 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 20:26:31,355 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 20:26:35,359 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 20:54:53,979 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 20:54:53,983 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 20:54:53,984 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 20:54:53,985 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 20:54:54,003 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 20:54:54,188 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 20:54:54,190 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 20:54:54,190 - kivy - INFO - Base: Start application main loop
+2026-03-11 20:54:54,232 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7cf7f33c9230>" has been set, it will be removed in a future version
+2026-03-11 20:54:54,297 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 20:54:57,196 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 20:55:15,773 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 21:04:38,603 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 21:04:38,610 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 21:04:38,611 - kivy - INFO - DatabaseManager: Direct connection initialized
+2026-03-11 21:04:38,611 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 21:04:38,629 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 21:04:38,860 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 21:04:38,862 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 21:04:38,862 - kivy - INFO - Base: Start application main loop
+2026-03-11 21:04:38,899 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x71186a3b5620>" has been set, it will be removed in a future version
+2026-03-11 21:04:38,947 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 21:04:41,870 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 21:04:49,254 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 22:49:26,719 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 22:49:26,724 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 22:49:26,725 - kivy - INFO - DatabaseManager: Using Neon PostgreSQL
+2026-03-11 22:49:26,725 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 22:49:26,742 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 22:49:26,997 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 22:49:27,000 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 22:49:27,000 - kivy - INFO - Base: Start application main loop
+2026-03-11 22:49:27,044 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x789df17b0f90>" has been set, it will be removed in a future version
+2026-03-11 22:49:27,096 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 22:49:30,007 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 22:49:34,390 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 22:53:27,082 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 22:53:27,086 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 22:53:27,086 - kivy - INFO - DatabaseManager: Using Neon PostgreSQL
+2026-03-11 22:53:27,086 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 22:53:27,102 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 22:53:27,309 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 22:53:27,310 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 22:53:27,311 - kivy - INFO - Base: Start application main loop
+2026-03-11 22:53:27,368 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x75526a3b0f20>" has been set, it will be removed in a future version
+2026-03-11 22:53:27,454 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 22:53:30,312 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 22:54:10,883 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 22:57:48,133 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 22:57:48,136 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 22:57:48,137 - kivy - INFO - DatabaseManager: Using Neon PostgreSQL
+2026-03-11 22:57:48,137 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 22:57:48,147 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 22:57:48,326 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 22:57:48,327 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 22:57:48,327 - kivy - INFO - Base: Start application main loop
+2026-03-11 22:57:48,375 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7fd60c0b4f90>" has been set, it will be removed in a future version
+2026-03-11 22:57:48,415 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 22:57:51,329 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 22:58:17,177 - kivy - INFO - Window: exiting mainloop and closing.
+2026-03-11 23:39:53,530 - kivy - INFO - Logging initialized. File: /home/smhuglich/compilar/app_log.txt
+2026-03-11 23:39:53,533 - kivy - INFO - App: Initializing DatabaseManager...
+2026-03-11 23:39:53,534 - kivy - INFO - DatabaseManager: Using API at https://medical-app-api.onrender.com
+2026-03-11 23:39:53,534 - kivy - INFO - App: DatabaseManager initialized successfully
+2026-03-11 23:39:53,542 - kivy - INFO - GL: NPOT texture support is available
+2026-03-11 23:39:53,670 - kivy - INFO - ProbeSysfs: device match: /dev/input/event13
+2026-03-11 23:39:53,671 - kivy - INFO - MTD: Read event from </dev/input/event13>
+2026-03-11 23:39:53,671 - kivy - INFO - Base: Start application main loop
+2026-03-11 23:39:54,056 - kivy - WARNING - Deprecated property "<NumericProperty name=width_mult>" of object "<kivymd.uix.toolbar.toolbar.OverFlowMenu object at 0x7baeec8b8c10>" has been set, it will be removed in a future version
+2026-03-11 23:39:54,084 - kivy - INFO - Loader: using a thread pool of 2 workers
+2026-03-11 23:39:55,164 - kivy - ERROR - API Error (get_specialties): Client error '404 Not Found' for url 'https://medical-app-api.onrender.com/specialties'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2026-03-11 23:39:56,672 - kivy - WARNING - MTD: Unable to open device "/dev/input/event13". Please ensure you have the appropriate permissions.
+2026-03-11 23:40:07,608 - kivy - INFO - Window: exiting mainloop and closing.

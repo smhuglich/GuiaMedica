@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: guia-medica-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements_server.txt
+    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT

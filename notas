@@ -1,0 +1,40 @@
+Service URI
+    postgres://@pg-2354815b-sergiohuglich77-d628.j.aivencloud.com:21432/defaultdb?sslmode=require
+Database name
+    defaultdb
+Host
+    pg-2354815b-sergiohuglich77-d628.j.aivencloud.com
+Port
+    21432
+User
+    avnadmin
+Password
+
+    AVNS_eyWnimdoF24YsXON6rD
+
+SSL mode
+    require
+CA certificate
+Connection limit
+    20
+
+Service plan usage
+1 CPU / 1 GB RAM / 1 GB storage
+Memory used (60min)
+66%
+Storage used
+12.4% (out of 1 GB)
+CPU across all nodes (60min)
+Average
+
+255075100
+Backups and forking
+Backups for disaster recovery
+Backup location
+do-blr1
+Latest backup
+6 minutes ago
+Oldest backup
+6 minutes ago
+Total backups stored
+32 MB

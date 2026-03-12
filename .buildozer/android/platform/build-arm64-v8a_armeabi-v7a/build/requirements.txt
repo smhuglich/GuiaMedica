@@ -1,0 +1,8 @@
+certifi
+chardet
+idna
+kivymd
+psycopg
+requests
+typing-extensions
+urllib3

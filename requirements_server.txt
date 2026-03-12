@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+libsql_client
+pydantic
